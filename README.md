@@ -1,2 +1,1 @@
-# MyCIProjectShow
-MyCIProjectShow for Angular
+# Angular Learning By Yanfu
