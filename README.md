@@ -1,4 +1,4 @@
-# Spring Boot, Mysql, Angular Restful API Tutorial
+# Spring Boot, Mysql, Angular Restful API 
 
 Build a Fully-Fledged Todo App with Spring Boot & MongoDB in the Backend and Angular in the frontend.
 
