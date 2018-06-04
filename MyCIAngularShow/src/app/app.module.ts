@@ -6,6 +6,7 @@ import { ProductDetatilsComponent } from './product-detatils/product-detatils.co
 import { EmploymentDetailsComponent } from './employment-details/employment-details.component';
 import { CustomerInfoComponent } from './customer-info/customer-info.component';
 import { HerosComponent } from './heros/heros.component';
+import { HeroComponent } from './hero/hero.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +14,8 @@ import { HerosComponent } from './heros/heros.component';
     ProductDetatilsComponent,
     EmploymentDetailsComponent,
     CustomerInfoComponent,
-    HerosComponent
+    HerosComponent,
+    HeroComponent
   ],
   imports: [
     BrowserModule
