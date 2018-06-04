@@ -47,6 +47,10 @@ npm start
 
 Frontend server will run on <http://localhost:4200>
 
+
+
+<img style="width:200px;" src="http://ouk8myx67.bkt.clouddn.com/SHOWPage.png" />
+
 ## Learn more
 
 <!-- ![微信公众号](http://ouk8myx67.bkt.clouddn.com/qrcode_for_gh_0c9cf410a7cb_258.jpg) -->
